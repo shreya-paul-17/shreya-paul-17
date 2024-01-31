@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreya Paul</h1>
 <h3 align="center">A passionate Web and Java Developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/shreya-paul-17/shreya-paul-17/blob/master/fem-coder.jpeg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-paul-17&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-paul-17" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
