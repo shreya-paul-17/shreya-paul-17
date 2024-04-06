@@ -15,36 +15,6 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)
-```
-
-    
-
----
-
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
-```
-
-    
-
----
-
 ![](./3-stats.svg)
 
 ```
