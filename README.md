@@ -27,7 +27,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 </div>
 
-# My Stats :
+# My GitHub Analytics :
 [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
