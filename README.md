@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **I once believed 💩 was chocolate ice cream, but alas, it's the emoji language for poop!** 
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <div >
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>&nbsp;
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>&nbsp;
