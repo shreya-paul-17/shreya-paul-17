@@ -1,9 +1,21 @@
-<h1 align="center">Hi 👋, I'm Shreya Paul</h1> 
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13.2%" style="display:inline; z-index: 999; position: relative; margin-left: 10px;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%" style="display:inline; z-index: 999; position: relative;">
+
+<div align="center">
+  <h1>
+    <a href="https://github.com/shreya-paul-17">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=435&color=e66c8a&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+Shreya+Paul" alt="Shreya Hii" />
+    </a>
+</div>
+
+
+
+
 <h3 align="center">A passionate Web and Java Developer from India</h3>
 
 <img align="right" alt="coding" width="350" src="https://github.com/shreya-paul-17/shreya-paul-17/blob/master/fem-coder.jpeg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-paul-17&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-paul-17"/> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-paul-17&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-paul-17"/> </p> -->
 
 - 🌱 I’m currently learning **MERN Stack**
 
