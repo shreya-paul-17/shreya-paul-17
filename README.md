@@ -9,8 +9,8 @@
 </div>
 
  <!-- <img align="right" alt="coding" width="350" src="https://github.com/shreya-paul-17/shreya-paul-17/blob/master/fem-coder.jpeg"> -->
- 
- <h3 align="center">A passionate Web and Java developer from India</h3>
+
+<h3 align="center">𝒜 𝓅𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒲𝑒𝒷 𝒶𝓃𝒹 𝒥𝒶𝓋𝒶 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇</h3>
  
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif" width="30"> &nbsp;&nbsp;&nbsp; *I’m currently learning **MERN Stack***
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="36"> &nbsp; *I’m looking to collaborate on **Web Development Projects***
@@ -35,9 +35,6 @@
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-paul-17&label=Profile%20views&color=f53d6a&style=flat" alt="shreya-paul-17"/> </p> -->
-
-
-
 
 ## My GitHub Analytics :
 [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
