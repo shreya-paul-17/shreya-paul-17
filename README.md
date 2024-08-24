@@ -10,7 +10,7 @@
 
  <!-- <img align="right" alt="coding" width="350" src="https://github.com/shreya-paul-17/shreya-paul-17/blob/master/fem-coder.jpeg"> -->
 
-<h3 align="center">𝒜 𝓅𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒲𝑒𝒷 𝒶𝓃𝒹 𝒥𝒶𝓋𝒶 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇</h3>
+<h2 align="center">𝒜 𝓅𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒲𝑒𝒷 𝒶𝓃𝒹 𝒥𝒶𝓋𝒶 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇</h2>
  
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif" width="30"> &nbsp;&nbsp;&nbsp; *I’m currently learning **MERN Stack***
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="36"> &nbsp; *I’m looking to collaborate on **Web Development Projects***
@@ -31,12 +31,21 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 </div>
 
-
+### *GSSoC '24 Badges 🪶*
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+</div>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-paul-17&label=Profile%20views&color=f53d6a&style=flat" alt="shreya-paul-17"/> </p> -->
 
-## My GitHub Analytics :
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"> <span><i>Github Analytics</i></span></h2>
+
 [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
