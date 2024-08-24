@@ -4,30 +4,22 @@
 <div align="center">
   <h1>
     <a href="https://github.com/shreya-paul-17">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=435&color=e66c8a&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+Shreya+Paul" alt="Shreya Hii" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=435&color=e85a8a&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+Shreya+Paul" alt="Shreya Hii" />
     </a>
 </div>
 
+ <!-- <img align="right" alt="coding" width="350" src="https://github.com/shreya-paul-17/shreya-paul-17/blob/master/fem-coder.jpeg"> -->
+ 
+ <h3 align="center">A passionate Web and Java developer from India</h3>
+ 
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif" width="30"> &nbsp;&nbsp;&nbsp; *I’m currently learning **MERN Stack***
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="36"> &nbsp; *I’m looking to collaborate on **Web Development Projects***
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="30"> &nbsp;&nbsp; *Ask me about **Java***
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="27"> &nbsp;&nbsp; *How to reach me **shreya.paul417@gmail.com***
+  
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> &nbsp;&nbsp; *Fun fact: **I once believed 💩 was chocolate ice cream, but alas, it's the emoji language for poop!***
 
-
-
-<h3 align="center">A passionate Web and Java Developer from India</h3>
-
-<img align="right" alt="coding" width="350" src="https://github.com/shreya-paul-17/shreya-paul-17/blob/master/fem-coder.jpeg">
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-paul-17&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-paul-17"/> </p> -->
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **shreya.paul417@gmail.com**
-
-- ⚡ Fun fact: **I once believed 💩 was chocolate ice cream, but alas, it's the emoji language for poop!** 
-
-## Languages and Tools:
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"> &nbsp; Languages and Tools:
 <div >
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>&nbsp;
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>&nbsp;
@@ -38,6 +30,14 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>&nbsp;
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 </div>
+
+
+
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-paul-17&label=Profile%20views&color=f53d6a&style=flat" alt="shreya-paul-17"/> </p> -->
+
+
+
 
 ## My GitHub Analytics :
 [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
