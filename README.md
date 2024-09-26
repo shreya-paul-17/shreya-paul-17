@@ -16,7 +16,6 @@
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="36"> &nbsp; *I’m looking to collaborate on **Web Development Projects***
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="30"> &nbsp;&nbsp; *Ask me about **Java***
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="27"> &nbsp;&nbsp; *How to reach me **shreya.paul417@gmail.com***
-  
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> &nbsp;&nbsp; *Fun fact : **I once believed 💩 was chocolate ice cream, but alas, it's the emoji language for poop !***
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"> &nbsp; Languages and Tools:
@@ -46,6 +45,18 @@
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"> <span><i>Github Analytics</i></span></h2>
 
-[![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+
+<div align="center">
+
+<img height="158em" src="https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/0-profile-details.svg">
+<img height="158em" src="https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/1-repos-per-language.svg">
+<img height="160em" src="https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/2-most-commit-language.svg">
+<img height="160em" src="https://raw.githubusercontent.com/shreya-paul-17/shreya-paul-17/master/profile-summary-card-output/jolly/4-productive-time.svg">
+
+</div><br>
+
+
+
