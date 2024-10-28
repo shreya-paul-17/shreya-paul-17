@@ -41,6 +41,8 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 
+### *Hacktoberfest '24 Badges*
+[![An image of @shreyapaul17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyapaul17)](https://holopin.io/@shreyapaul17)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-paul-17&label=Profile%20views&color=f53d6a&style=flat" alt="shreya-paul-17"/> </p> -->
 
