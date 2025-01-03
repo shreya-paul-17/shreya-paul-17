@@ -12,7 +12,7 @@
 
 <h2 align="center">𝒜 𝓅𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒲𝑒𝒷 𝒶𝓃𝒹 𝒥𝒶𝓋𝒶 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇</h2>
  
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif" width="30"> &nbsp;&nbsp;&nbsp; *I’m currently learning **Spring, Spring Boot and Hibernete***
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif" width="30"> &nbsp;&nbsp;&nbsp; *I’m currently learning **Spring, Spring Boot and Hibernate***
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="36"> &nbsp; *I’m looking for internships on **Web Development/ Software Development Projects***
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="30"> &nbsp;&nbsp; *Ask me about **Java, MERN Stack***
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="27"> &nbsp;&nbsp; *How to reach me **shreya.paul417@gmail.com***
@@ -31,6 +31,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 </div> -->
 
+<div align="center">
 <table>
 	<tr>
 		<td><strong>Programming Languages</strong></td>
@@ -42,24 +43,25 @@
 	</tr>
 	<tr>
 		<td><strong>Frontend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=react,js,tailwind,css,html&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Backend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Frameworks and Libraries</strong></td>
-		<td>
-			<!--<img height=40 src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark">
+		<!--<td><img height=40 src="https://skillicons.dev/icons?i=reduxl&theme=dark">
+			<img height=40 src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark">
 			<img height=40 src="https://numpy.org/images/logo.svg">
 			<img height=40 src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
-			<img height=40 src="https://matplotlib.org/_static/logo2.svg">-->
-		</td>
+			<img height=40 src="https://matplotlib.org/_static/logo2.svg">
+		</td>-->
+		<td><img height=40 src="https://skillicons.dev/icons?i=redux,hibernate&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Developer Tools</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,postman,figma,netlify,vscode&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Operating Systems</strong></td>
@@ -68,6 +70,7 @@
 		</td>
 	</tr>
 </table>
+</div>
 
 ### *GSSoC '24 Badges 🪶*
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
