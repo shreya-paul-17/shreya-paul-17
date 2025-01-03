@@ -12,9 +12,9 @@
 
 <h2 align="center">𝒜 𝓅𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒲𝑒𝒷 𝒶𝓃𝒹 𝒥𝒶𝓋𝒶 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇</h2>
  
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif" width="30"> &nbsp;&nbsp;&nbsp; *I’m currently learning **MERN Stack***
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="36"> &nbsp; *I’m looking to collaborate on **Web Development Projects***
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="30"> &nbsp;&nbsp; *Ask me about **Java***
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif" width="30"> &nbsp;&nbsp;&nbsp; *I’m currently learning **Spring, Spring Boot and Hibernete***
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="36"> &nbsp; *I’m looking for internships on **Web Development/ Software Development Projects***
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="30"> &nbsp;&nbsp; *Ask me about **Java, MERN Stack***
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="27"> &nbsp;&nbsp; *How to reach me **shreya.paul417@gmail.com***
   
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> &nbsp;&nbsp; *Fun fact : **I once believed 💩 was chocolate ice cream, but alas, it's the emoji language for poop !***
