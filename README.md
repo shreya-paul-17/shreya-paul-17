@@ -20,7 +20,7 @@
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> &nbsp;&nbsp; *Fun fact : **I once believed 💩 was chocolate ice cream, but alas, it's the emoji language for poop !***
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"> &nbsp; Languages and Tools:
-<div >
+<!-- <div >
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>&nbsp;
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>&nbsp;
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>&nbsp;
@@ -29,6 +29,45 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>&nbsp;
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>&nbsp;
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+</div> -->
+<div align="center">
+<table>
+	<tr>
+		<td><strong>Programming Languages</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=java&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Database Technologies</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Frontend Development</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Backend Development</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Frameworks and Libraries</strong></td>
+		<td>
+			<!--<img height=40 src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark">
+			<img height=40 src="https://numpy.org/images/logo.svg">
+			<img height=40 src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
+			<img height=40 src="https://matplotlib.org/_static/logo2.svg">-->
+		</td>
+	</tr>
+	<tr>
+		<td><strong>Developer Tools</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Operating Systems</strong></td>
+		<td>
+			<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+		</td>
+	</tr>
+</table>
 </div>
 
 ### *GSSoC '24 Badges 🪶*
